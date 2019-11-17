@@ -27,4 +27,7 @@ print ("# Monto total:", monto_total)
 # si el comprador es compulsivo, mostrarle la tarjeta dorada
 if (comprador_compulsivo==True):
     print ("GANASTE LA TARTEJA DORADA")
+
+else:
+    print("VUELVA PRONTO Y COMPRE MAS")
 #fin_if
